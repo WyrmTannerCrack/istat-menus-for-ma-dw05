@@ -1,4 +1,4 @@
-
+iStat Menus for macOS smart Helper - VM-management and system-cleanup is the best iStat Menus for macOS helper, featuring VM-management and system-cleanup. Safe, efficient, and
 
 
 
